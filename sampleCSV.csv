@@ -1,0 +1,4 @@
+eventsource_address,port_number,transport_mode,debug,enabled,cert_name,validate_server,render_locale,windows_type,resolve_sids,sids_interval,sids_timeout,override_channels
+"dc1.mydomain.local","5985","http","0","true","","false","en-US","Domain Controller","true","14400","60",""
+"dc2.mydomain.local","5985","http","0","true","","false","en-US","Domain Controller","true","14400","60",""
+"host1.mydomain.local","5985","http","0","true","","false","en-US","Non-Domain Controller","true","14400","60",""
