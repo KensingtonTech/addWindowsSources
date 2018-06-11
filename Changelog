@@ -1,3 +1,8 @@
+Version 0.2
+13 July, 2017
+*Added command line option --delete to cause removal of existing event sources within the selected Event Category that are not in the CSV, effectively treating the CSV as authoritative for the Event Category
+*Script no longer attempts to re-add event sources which are already defined in the selected Event Category
+
 Version 0.1
 28 November, 2016
 Initial release
